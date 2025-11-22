@@ -190,8 +190,6 @@ A comprehensive business intelligence project analyzing Swiggy's operational dat
 | **📚 Documentation/** | `Project Documentation.pdf` | PDF | Technical implementation details |
 | **🖼️ Images/** | `Dashboard Screenshots/` | Folder | Complete dashboard visual documentation |
 | **🖼️ Images/** | `Dashboard Icons/` | Folder | UI elements and visual assets |
-| **📋 data/** | `data_dictionary.md` | Markdown | Dataset schema & field descriptions |
-| **🔗 resources/** | `references.md` | Markdown | Tools, tutorials & learning resources |
 | **Root** | `README.md` | Markdown | Project overview & documentation |
 
 
@@ -206,11 +204,10 @@ This analysis enables Swiggy to:
 ## 👨‍💻 Analyst Profile
 
 **Tamer Elkot**  
-*Data Analyst | Business Intelligence Specialist*
+*Data Scientist & Analytical Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamer-elkot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamer.elkot.ai@gmail.com)
 
 ---
 
