@@ -1,7 +1,5 @@
 # 🚀 Swiggy Data Analysis Dashboard
 
-# 🚀 Swiggy Data Analysis Dashboard
-
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6B35?style=for-the-badge&logo=tableau&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Interactive_Dashboard-008080?style=for-the-badge)
